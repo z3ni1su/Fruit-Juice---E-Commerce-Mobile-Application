@@ -1,6 +1,13 @@
-# project2group1
-
-A new Flower Shop Application
+**Fruit Juice — E-Commerce Mobile Application** :
+**Technologies: Flutter, Dart, Android Studio**
+Developed an Android e-commerce application using
+Flutter
+Used
+Dart
+collections to simulate product data
+Implemented
+Flutter widgets and animations
+to enhance UI design
 
 ## Getting Started
 
@@ -14,3 +21,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
